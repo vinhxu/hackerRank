@@ -1,0 +1,12 @@
+https://www.hackerrank.com/challenges/basic-probability-puzzles-7?h_r=next-challenge&h_v=zen
+
+Task 
+A firm produces steel pipes in three plants.
+
+Plant  produces  units per day and has a fraction defective output of .
+Plant  produces  units per day and has a fraction defective output of .
+Plant  produces  units per day and has a fraction defective output of .
+At random, a pipe is selected from the day’s total production and it is found to be defective. What is the probability that it came from plant ?
+
+Answer
+(.005*.992*.99)/(.005*.992*.99+.995*.008*.99+.995*.998*.01)
